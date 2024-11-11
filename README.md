@@ -27,3 +27,4 @@
 | ![](https://avatars.steamstatic.com/a14c92ffa5d700ccc926a1a7fd34a3da208bf39e.jpg) | 清酒          | [76561199408783107](https://steamcommunity.com/profiles/76561199408783107/) | ✅           | 2024-03-27 17:53:32 |          |
 | ![](https://avatars.steamstatic.com/ff8118264c64d1891df5fbae9ec147dd15dc3890.jpg) | 糯米红豆糕       | [76561199195703170](https://steamcommunity.com/profiles/76561199195703170/) | ✅           | 2023-06-18 13:51:10 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 小八妈妈        | [76561199550261099](https://steamcommunity.com/profiles/76561199550261099/) | ✅           | 2024-04-12 11:51:37 |          |
+| ![](https://avatars.steamstatic.com/65cd336672cc124d652463132ff3d9fed4b3fbde.jpg) | 小洛          | [76561199758966658](https://steamcommunity.com/profiles/76561199758966658/) | ✅           | 2024-11-10 12:38:06 |          |
